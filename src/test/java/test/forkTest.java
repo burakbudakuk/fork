@@ -4,6 +4,6 @@ public class forkTest {
 
 
     public static void main(String[] args) {
-        System.out.println("Test fork");
+        System.out.println("Test fork, burak's change");
     }
 }
